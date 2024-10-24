@@ -1,2 +1,2 @@
 # HTML
-All HTML data available for quick reference
+All HTML data available here for a quick reference
